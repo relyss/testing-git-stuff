@@ -8,3 +8,4 @@ change one
 change test gpg
 test develop
 test branch
+test commit
