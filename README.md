@@ -9,3 +9,4 @@ change test gpg
 test develop
 test branch
 test commit
+test gpg for commit
