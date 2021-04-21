@@ -11,3 +11,4 @@ test branch
 test commit
 test gpg for commit
 try to repro
+signed commit
