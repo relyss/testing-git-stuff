@@ -8,3 +8,4 @@ change one
 change test gpg
 test develop
 new commit for shallow tests
+new commit in wt
