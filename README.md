@@ -7,3 +7,8 @@ lala2
 change one
 change test gpg
 test develop
+test branch
+test commit
+test gpg for commit
+try to repro
+signed commit
