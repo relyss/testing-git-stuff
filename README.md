@@ -10,3 +10,5 @@ test develop
 new commit for shallow tests
 test shallow sb
 test shallow submodule push
+fetch this from a shallow submodule
+tag this
