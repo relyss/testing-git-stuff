@@ -13,3 +13,4 @@ test shallow submodule push
 fetch this from a shallow submodule
 tag this
 test nsb
+test sb linux
